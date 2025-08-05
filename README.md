@@ -122,19 +122,24 @@ Based on the analysis framework and dashboard design:
 
 ---
 
+## Project Structure
+
+```
 call-center-performance-analysis-excel/
 │
 ├── data/
-│ └── data_sheet.xlsx
+│   └── data_sheet.xlsx
 │
 ├── analysis/
-│ └── call_center_analysis_final_worksheet.xlsx
+│   └── call_center_analysis_final_worksheet.xlsx
 │
 ├── presentation/
-│ ├── call_center_project_presentation.pptx
-│ └── final_dashboard_view.png
+│   ├── call_center_project_presentation.pptx
+│   └── final_dashboard_view.png
 │
 └── README.md
+```
+
 
 ---
 
